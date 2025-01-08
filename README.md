@@ -1,2 +1,2 @@
 # Structured-Community-Matrix
-Code used to analyze the stability of ecological communities formed by stage-structured populations.
+Example of the coode used to analyze the stability of ecological communities formed by stage-structured populations.
