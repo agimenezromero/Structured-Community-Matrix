@@ -35,7 +35,7 @@ Pkg.add("Distributed")
 Pkg.add("Distributions")
 
 # To use Jupyter notebooks
-Pkg.add("IJulia")  # 
+Pkg.add("IJulia")
 ```
 
 ## How to Use
