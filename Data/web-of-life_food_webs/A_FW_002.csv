@@ -1,0 +1,15 @@
+,Astyanax altiparanae,Astyanax fasciatus,Brycon nattereri,Detritus,Detritus Animal,Hoplias malabaricus,Hypostomus strigaticeps,Import,Leporinus friderici,Macrophytes,Phytoplankton,Salminus hilarii,Terrestrial Invertebrates,Zooplankton
+Astyanax altiparanae,0.0,0.0,0.0,0.0,-1.0,1.0,0.0,-1.0,0.0,-1.0,-1.0,1.0,-1.0,0.0
+Astyanax fasciatus,0.0,0.0,0.0,0.0,-1.0,1.0,0.0,0.0,0.0,-1.0,-1.0,1.0,-1.0,0.0
+Brycon nattereri,0.0,0.0,0.0,-1.0,-1.0,0.0,0.0,-1.0,0.0,-1.0,0.0,1.0,-1.0,0.0
+Detritus,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+Detritus Animal,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+Hoplias malabaricus,-1.0,-1.0,0.0,-1.0,-1.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,-1.0,0.0
+Hypostomus strigaticeps,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+Import,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Leporinus friderici,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,-1.0,0.0,-1.0,-1.0,1.0,-1.0,0.0
+Macrophytes,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0
+Phytoplankton,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0
+Salminus hilarii,-1.0,-1.0,-1.0,0.0,0.0,0.0,-1.0,0.0,-1.0,0.0,0.0,0.0,-1.0,0.0
+Terrestrial Invertebrates,1.0,1.0,1.0,-1.0,0.0,1.0,0.0,-1.0,1.0,-1.0,0.0,1.0,0.0,0.0
+Zooplankton,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0
