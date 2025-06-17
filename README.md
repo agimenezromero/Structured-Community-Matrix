@@ -4,6 +4,15 @@ This repository provides Julia code for implementing and analyzing the **Structu
 
 > Giménez-Romero, À., Hernandez, C., Genovart, M. & Salguero-Gómez, R. *Population structure plays a key role in community stability*. (In review)
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Mathematical framework: Derivation of the Structured Community Matrix](#mathematical-framework-derivation-of-the-structured-community-matrix)
+- [Repository Contents](#repository-contents)
+- [Installation and Requirements](#installation-and-requirements)
+- [How to Use](#how-to-use)
+- [Empirical Application](#empirical-application)
+
 ## Overview
 
 The SCM framework generalizes classical community matrix approaches by incorporating population structure—such as juvenile–adult dynamics—into stability analysis. This allows for a systematic exploration of how stage-specific interactions (e.g., asymmetric predation or competition) affect the stability of both theoretical and empirical communities.
